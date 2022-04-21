@@ -143,3 +143,19 @@ div.fadeIn {
 		transform: translateY(0px);
 	}
 }
+
+
+@media screen and (max-width: 768px) {
+	.intro h1 {
+		text-align: center;
+	}
+
+	.hands img {
+		height: 200px;
+		width: 200px;
+	}
+
+	.match button {
+		width: 100px;
+	}
+}

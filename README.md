@@ -1,16 +1,20 @@
 # rock-paper-scissors
+
 This is a simple game built with javascript. The game imitates the popular rock, paper scissors game.
+
 ## Table of Content 
-* [Introduction] (### Introduction)
-* The HTML setup
-* The CSS Setup
-* The JavaScript Setup
+
+- [Introduction](#Introduction)
+- [The HTML setup](#The-HTML-Setup)
+- [The CSS Setup](#The-CSS-setup)
+- [The JavaScript Setup](#The-Javascript-setup)
 
 ### Introduction 
 
 This is a simple game built with HTML, CSS, and Javascript. The game imitates the popular rock, paper scissors game.
 
 ### The HTML Setup 
+
 The html contains a general section that wraps the entire page. Within the main section there are several other divs wrapping the different sections of the game.
 
 The first div containes the player and computer scores both placed in seperate sub divs and initialized to 0. 
@@ -48,6 +52,7 @@ An animation is also added to the hands image to give a bouncing effect to the h
 The animation was activated with javascript.
 
 ### The JavaScript setup
+
 The javascript contains a function that contains several functions for different functionalities for the game. 
 
 The first function startGame is created to fade in the game screen and fade out the intro screen when you click on a button. It first receives the button, 
